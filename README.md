@@ -66,3 +66,4 @@ Project aimed to parse and analyze news from newsvl.ru.
 - NLP и прочие ништяки
 
 ## References
+![Example1](https://res.cloudinary.com/codewave-technologies/image/upload/v1497290015/dashboard-visualisation-data-analytics-design-development-codewave_zo6puk.gif)
